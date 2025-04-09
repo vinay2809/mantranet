@@ -1,6 +1,6 @@
 
-     pip install torch torchvision streamlit opencv-python matplotlib pillow
-     !mkdir mantra-net-app
+pip install torch torchvision streamlit opencv-python matplotlib pillow
+!mkdir mantra-net-app
 !cd mantra-net-app
 !touch app.py
 import streamlit as st
